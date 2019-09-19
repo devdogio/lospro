@@ -1,0 +1,5 @@
+1. Import the asset
+2. Open the getting started dialog in through tools > Los Pro > Getting started
+3. View the online getting started documentation at: http://devdog.io/unity-assets/los-pro
+
+Documentation can be found at http://devdog.io/unity-assets/los-pro or directly in the Unity main menu Tools > Los Pro > Documentation.
