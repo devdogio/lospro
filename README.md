@@ -41,7 +41,7 @@ After years on the AssetStore, we're open-sourcing LOS Pro because we're moving 
 
 100% in the hands of the community, we hope to see the tool flourish, development continue, and any upcoming bugs fixed (the tool should be bug-free as-is).
 
-## What's included with Quest System Pro?
+## What's included with LOS Pro?
 
 #### Super Lightweight Detection
 A super fast & lightweight modular hearing and line of sight solution that is heavily optimized and production ready. 
